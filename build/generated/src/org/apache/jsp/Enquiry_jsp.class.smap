@@ -1,0 +1,22 @@
+SMAP
+Enquiry_jsp.java
+JSP
+*S JSP
+*F
++ 0 Enquiry.jsp
+Enquiry.jsp
++ 1 header.jsp
+MasterPages/header.jsp
++ 2 left.jsp
+MasterPages/left.jsp
++ 3 footer.jsp
+MasterPages/footer.jsp
+*L
+5,32:51
+1#1,26:83
+36#0,3:108
+1#2,13:111
+38#0,47:124
+1#3,8:171
+84#0,6:179
+*E
